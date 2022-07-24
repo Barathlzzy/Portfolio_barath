@@ -343,6 +343,9 @@ section{
   background: var(--second-color);
   box-shadow: 0 10px 34px rgba(0 ,0,0,0.14);
 }
+.box img{
+  border-radius: 45px;
+}
 
 /* Contact */
 
